@@ -1,0 +1,3 @@
+C:/stm/stm32-PLL/build/CMakeFiles/pll_registers.dir
+C:/stm/stm32-PLL/build/CMakeFiles/edit_cache.dir
+C:/stm/stm32-PLL/build/CMakeFiles/rebuild_cache.dir

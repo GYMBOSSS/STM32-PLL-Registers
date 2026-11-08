@@ -1,0 +1,887 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-exit.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-exit.o) (__stdio_exit_handler)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fwalk.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o) (_fwalk_sglue)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-stdio.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o) (__sread)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-closer.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-stdio.o) (_close_r)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-reent.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-closer.o) (errno)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-impure.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-reent.o) (_impure_ptr)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lseekr.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-stdio.o) (_lseek_r)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-readr.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-stdio.o) (_read_r)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-writer.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-stdio.o) (_write_r)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-init.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__call_atexit.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-exit.o) (__call_exitprocs)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-atexit.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__call_atexit.o) (atexit)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-freer.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-reent.o) (_free_r)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mallocr.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o) (_malloc_r)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mlock.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-freer.o) (__malloc_lock)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fclose.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o) (_fclose_r)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fflush.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fclose.o) (__sflush_r)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-sbrkr.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-freer.o) (_sbrk_r)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fini.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__call_atexit.o) (__libc_fini_array)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-sysconf.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-freer.o) (sysconf)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__atexit.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-atexit.o) (__register_exitproc)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-errno.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-sysconf.o) (__errno)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(close.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-closer.o) (_close)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(lseek.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lseekr.o) (_lseek)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(read.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-readr.o) (_read)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(sbrk.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-sbrkr.o) (_sbrk)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(write.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-writer.o) (_write)
+C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+                              C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/main.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .group         0x00000000        0xc CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000      0xad2 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000       0x2e CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000       0x8e CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000       0x51 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000      0x103 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000       0x6a CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000      0x1df CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000       0x1c CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000       0x22 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000       0xbd CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000      0xd23 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000     0xe09e CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .debug_macro   0x00000000       0x6d CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00005000         xrw
+FLASH            0x08000000         0x00020000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crti.o
+LOAD C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+LOAD C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD CMakeFiles/pll_registers.dir/src/main.c.obj
+LOAD CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+LOAD CMakeFiles/pll_registers.dir/startup/startup_stm32f103xb.s.obj
+START GROUP
+LOAD C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp\libgcc.a
+LOAD C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a
+LOAD C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+END GROUP
+START GROUP
+LOAD C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp\libgcc.a
+LOAD C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+LOAD C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a
+END GROUP
+LOAD C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtend.o
+LOAD C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtn.o
+                0x20005000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000200                        _Min_Heap_Size = 0x200
+                0x00000400                        _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c CMakeFiles/pll_registers.dir/startup/startup_stm32f103xb.s.obj
+                0x08000000                g_pfnVectors
+                0x0800010c                        . = ALIGN (0x4)
+
+.text           0x0800010c     0x16c8
+                0x0800010c                        . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800010c        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crti.o
+ .text          0x0800010c        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x0800010c       0x7c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+                0x0800010c                _stack_init
+                0x08000114                _start
+                0x08000114                _mainCRTStartup
+ .text          0x08000188      0x120 CMakeFiles/pll_registers.dir/src/main.c.obj
+                0x08000188                SystemClock_Config
+                0x08000248                delay
+                0x0800025e                main
+ .text          0x080002a8       0x98 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+                0x080002a8                SystemInit
+                0x080002aa                SystemCoreClockUpdate
+ .text          0x08000340       0x14 CMakeFiles/pll_registers.dir/startup/startup_stm32f103xb.s.obj
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-exit.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fwalk.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-stdio.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-closer.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-reent.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-impure.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lseekr.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-readr.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-writer.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-init.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-atexit.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-freer.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mallocr.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mlock.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fclose.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fflush.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-sbrkr.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fini.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-sysconf.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__atexit.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-errno.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(close.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(lseek.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(read.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(sbrk.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(write.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtend.o
+ .text          0x08000354        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtn.o
+ *(.text*)
+ .text.deregister_tm_clones
+                0x08000354       0x1c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text.register_tm_clones
+                0x08000370       0x24 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x08000394       0x28 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text.frame_dummy
+                0x080003bc       0x24 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text.Reset_Handler
+                0x080003e0       0x48 CMakeFiles/pll_registers.dir/startup/startup_stm32f103xb.s.obj
+                0x080003e0                Reset_Handler
+ .text.Default_Handler
+                0x08000428        0x2 CMakeFiles/pll_registers.dir/startup/startup_stm32f103xb.s.obj
+                0x08000428                RTC_Alarm_IRQHandler
+                0x08000428                EXTI2_IRQHandler
+                0x08000428                DebugMon_Handler
+                0x08000428                TIM1_CC_IRQHandler
+                0x08000428                HardFault_Handler
+                0x08000428                SysTick_Handler
+                0x08000428                PVD_IRQHandler
+                0x08000428                PendSV_Handler
+                0x08000428                NMI_Handler
+                0x08000428                EXTI3_IRQHandler
+                0x08000428                EXTI0_IRQHandler
+                0x08000428                I2C2_EV_IRQHandler
+                0x08000428                UsageFault_Handler
+                0x08000428                ADC1_2_IRQHandler
+                0x08000428                SPI1_IRQHandler
+                0x08000428                TAMPER_IRQHandler
+                0x08000428                DMA1_Channel4_IRQHandler
+                0x08000428                USART3_IRQHandler
+                0x08000428                RTC_IRQHandler
+                0x08000428                DMA1_Channel7_IRQHandler
+                0x08000428                CAN1_RX1_IRQHandler
+                0x08000428                TIM4_IRQHandler
+                0x08000428                I2C1_EV_IRQHandler
+                0x08000428                DMA1_Channel6_IRQHandler
+                0x08000428                TIM3_IRQHandler
+                0x08000428                RCC_IRQHandler
+                0x08000428                TIM1_TRG_COM_IRQHandler
+                0x08000428                DMA1_Channel1_IRQHandler
+                0x08000428                Default_Handler
+                0x08000428                EXTI15_10_IRQHandler
+                0x08000428                EXTI9_5_IRQHandler
+                0x08000428                SPI2_IRQHandler
+                0x08000428                MemManage_Handler
+                0x08000428                SVC_Handler
+                0x08000428                DMA1_Channel5_IRQHandler
+                0x08000428                EXTI4_IRQHandler
+                0x08000428                USB_LP_CAN1_RX0_IRQHandler
+                0x08000428                USB_HP_CAN1_TX_IRQHandler
+                0x08000428                DMA1_Channel3_IRQHandler
+                0x08000428                TIM1_UP_IRQHandler
+                0x08000428                WWDG_IRQHandler
+                0x08000428                TIM2_IRQHandler
+                0x08000428                TIM1_BRK_IRQHandler
+                0x08000428                EXTI1_IRQHandler
+                0x08000428                USART2_IRQHandler
+                0x08000428                I2C2_ER_IRQHandler
+                0x08000428                DMA1_Channel2_IRQHandler
+                0x08000428                CAN1_SCE_IRQHandler
+                0x08000428                FLASH_IRQHandler
+                0x08000428                BusFault_Handler
+                0x08000428                USART1_IRQHandler
+                0x08000428                I2C1_ER_IRQHandler
+                0x08000428                USBWakeUp_IRQHandler
+ *fill*         0x0800042a        0x2 
+ .text.exit     0x0800042c       0x1c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-exit.o)
+                0x0800042c                exit
+ .text.stdio_exit_handler
+                0x08000448       0x18 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x08000460       0x40 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x080004a0       0x1c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x080004bc       0x1c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x080004d8       0xf0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+ .text.__sfp    0x080005c8       0xc0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+                0x080005c8                __sfp
+ .text.__sinit  0x08000688       0x3c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+                0x08000688                __sinit
+ .text.__sfp_lock_acquire
+                0x080006c4        0xc C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+                0x080006c4                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x080006d0        0xc C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+                0x080006d0                __sfp_lock_release
+ .text.__fp_lock_all
+                0x080006dc       0x24 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+                0x080006dc                __fp_lock_all
+ .text.__fp_unlock_all
+                0x08000700       0x24 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+                0x08000700                __fp_unlock_all
+ .text._fwalk_sglue
+                0x08000724       0x44 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fwalk.o)
+                0x08000724                _fwalk_sglue
+ .text.__sread  0x08000768       0x24 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-stdio.o)
+                0x08000768                __sread
+ .text.__seofread
+                0x0800078c        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-stdio.o)
+                0x0800078c                __seofread
+ .text.__swrite
+                0x08000790       0x40 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-stdio.o)
+                0x08000790                __swrite
+ .text.__sseek  0x080007d0       0x24 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-stdio.o)
+                0x080007d0                __sseek
+ .text.__sclose
+                0x080007f4        0x8 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-stdio.o)
+                0x080007f4                __sclose
+ .text.memset   0x080007fc       0x88 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
+                0x080007fc                memset
+ .text._close_r
+                0x08000884       0x24 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-closer.o)
+                0x08000884                _close_r
+ .text._reclaim_reent
+                0x080008a8       0x6c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-reent.o)
+                0x080008a8                _reclaim_reent
+ .text._lseek_r
+                0x08000914       0x2c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lseekr.o)
+                0x08000914                _lseek_r
+ .text._read_r  0x08000940       0x2c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-readr.o)
+                0x08000940                _read_r
+ .text._write_r
+                0x0800096c       0x2c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-writer.o)
+                0x0800096c                _write_r
+ .text.__libc_init_array
+                0x08000998       0x50 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-init.o)
+                0x08000998                __libc_init_array
+ .text.__retarget_lock_init
+                0x080009e8        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x080009e8                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x080009ec        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x080009ec                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x080009f0        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x080009f0                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x080009f4        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x080009f4                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x080009f8        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x080009f8                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x080009fc        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x080009fc                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x08000a00        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x08000a00                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x08000a04        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x08000a04                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x08000a08        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x08000a08                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x08000a0c        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x08000a0c                __retarget_lock_release_recursive
+ .text.startup.register_fini
+                0x08000a10       0x14 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x08000a24       0xec C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__call_atexit.o)
+                0x08000a24                __call_exitprocs
+ .text.atexit   0x08000b10        0xc C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-atexit.o)
+                0x08000b10                atexit
+ .text._malloc_trim_r
+                0x08000b1c       0xac C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-freer.o)
+                0x08000b1c                _malloc_trim_r
+ .text._free_r  0x08000bc8      0x208 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-freer.o)
+                0x08000bc8                _free_r
+ .text._malloc_r
+                0x08000dd0      0x584 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mallocr.o)
+                0x08000dd0                _malloc_r
+ .text.__malloc_lock
+                0x08001354        0xc C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mlock.o)
+                0x08001354                __malloc_lock
+ .text.__malloc_unlock
+                0x08001360        0xc C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mlock.o)
+                0x08001360                __malloc_unlock
+ .text._fclose_r
+                0x0800136c       0xc4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fclose.o)
+                0x0800136c                _fclose_r
+ .text.fclose   0x08001430       0x10 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fclose.o)
+                0x08001430                fclose
+ .text.__sflush_r
+                0x08001440      0x120 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fflush.o)
+                0x08001440                __sflush_r
+ .text._fflush_r
+                0x08001560       0x70 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fflush.o)
+                0x08001560                _fflush_r
+ .text.fflush   0x080015d0       0x90 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fflush.o)
+                0x080015d0                fflush
+ .text._sbrk_r  0x08001660       0x24 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-sbrkr.o)
+                0x08001660                _sbrk_r
+ .text.__libc_fini_array
+                0x08001684       0x28 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fini.o)
+                0x08001684                __libc_fini_array
+ .text.sysconf  0x080016ac       0x1c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-sysconf.o)
+                0x080016ac                sysconf
+ .text.__register_exitproc
+                0x080016c8       0x84 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__atexit.o)
+                0x080016c8                __register_exitproc
+ .text.__errno  0x0800174c        0xc C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-errno.o)
+                0x0800174c                __errno
+ .text._close   0x08001758       0x10 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(close.o)
+                0x08001758                _close
+ .text._lseek   0x08001768       0x10 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(lseek.o)
+                0x08001768                _lseek
+ .text._read    0x08001778       0x10 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(read.o)
+                0x08001778                _read
+ .text._sbrk    0x08001788       0x1c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(sbrk.o)
+                0x08001788                _sbrk
+ .text._write   0x080017a4       0x10 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(write.o)
+                0x080017a4                _write
+ .text._exit    0x080017b4        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+                0x080017b4                _exit
+ *(.glue_7)
+ .glue_7        0x080017b8        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x080017b8        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x080017b8        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+ .eh_frame      0x080017b8        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtend.o
+ *(.init)
+ .init          0x080017bc        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crti.o
+                0x080017bc                _init
+ .init          0x080017c0        0x8 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x080017c8        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crti.o
+                0x080017c8                _fini
+ .fini          0x080017cc        0x8 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtn.o
+                0x080017d4                        . = ALIGN (0x4)
+                0x080017d4                        _etext = .
+
+.vfp11_veneer   0x080017d4        0x0
+ .vfp11_veneer  0x080017d4        0x0 linker stubs
+
+.v4_bx          0x080017d4        0x0
+ .v4_bx         0x080017d4        0x0 linker stubs
+
+.iplt           0x080017d4        0x0
+ .iplt          0x080017d4        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.rodata         0x080017d4       0x60
+                0x080017d4                        . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x080017d4       0x18 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+                0x080017d4                AHBPrescTable
+                0x080017e4                APBPrescTable
+ *(.rodata*)
+ .rodata.all_implied_fbits
+                0x080017ec       0x24 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+ .rodata.all_implied_fbits
+                0x08001810       0x24 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtend.o
+                0x08001834                        . = ALIGN (0x4)
+
+.ARM.extab      0x08001834        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x08001834        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+
+.ARM            0x08001834        0x8
+                0x08001834                        __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x08001834        0x8 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+                                 0x10 (size before relaxing)
+                0x0800183c                        __exidx_end = .
+
+.rel.dyn        0x0800183c        0x0
+ .rel.iplt      0x0800183c        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.preinit_array  0x0800183c        0x0
+                0x0800183c                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0800183c                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0800183c        0x8
+                0x0800183c                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x0800183c        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08001840        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x08001844                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x08001844        0x4
+                0x08001844                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08001844        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x08001848                        PROVIDE (__fini_array_end = .)
+                0x08001848                        _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x630 load address 0x08001848
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _sdata = .
+ *(.data)
+ .data          0x20000000        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x20000000        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+ .data          0x20000000        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x20000000        0x0 CMakeFiles/pll_registers.dir/src/main.c.obj
+ .data          0x20000000        0x4 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+                0x20000000                SystemCoreClock
+ .data          0x20000004        0x0 CMakeFiles/pll_registers.dir/startup/startup_stm32f103xb.s.obj
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-exit.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fwalk.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-stdio.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-closer.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-reent.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-impure.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lseekr.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-readr.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-writer.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-init.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-atexit.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-freer.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mallocr.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mlock.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fclose.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fflush.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-sbrkr.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fini.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-sysconf.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__atexit.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-errno.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(close.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(lseek.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(read.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(sbrk.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(write.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtend.o
+ .data          0x20000004        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtn.o
+ *(.data*)
+ .data.__dso_handle
+                0x20000004        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x20000004                __dso_handle
+ .data.__sglue  0x20000008        0xc C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+                0x20000008                __sglue
+ .data._impure_ptr
+                0x20000014        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-impure.o)
+                0x20000014                _impure_ptr
+ .data._impure_data
+                0x20000018      0x200 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-impure.o)
+                0x20000018                _impure_data
+ .data.__atexit_recursive_mutex
+                0x20000218        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__call_atexit.o)
+                0x20000218                __atexit_recursive_mutex
+ .data.__malloc_sbrk_base
+                0x2000021c        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mallocr.o)
+                0x2000021c                __malloc_sbrk_base
+ .data.__malloc_trim_threshold
+                0x20000220        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mallocr.o)
+                0x20000220                __malloc_trim_threshold
+ *fill*         0x20000224        0x4 
+ .data.__malloc_av_
+                0x20000228      0x408 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mallocr.o)
+                0x20000228                __malloc_av_
+                0x20000630                        . = ALIGN (0x4)
+                0x20000630                        _edata = .
+
+.tm_clone_table
+                0x20000630        0x0 load address 0x08001e78
+ .tm_clone_table
+                0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+ .tm_clone_table
+                0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtend.o
+
+.igot.plt       0x20000630        0x0 load address 0x08001e78
+ .igot.plt      0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x20000630                        . = ALIGN (0x4)
+
+.bss            0x20000630      0x348 load address 0x08001e78
+                0x20000630                        _sbss = .
+                0x20000630                        __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crti.o
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x20000630        0x0 CMakeFiles/pll_registers.dir/src/main.c.obj
+ .bss           0x20000630        0x0 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .bss           0x20000630        0x0 CMakeFiles/pll_registers.dir/startup/startup_stm32f103xb.s.obj
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-exit.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fwalk.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-stdio.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-closer.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-reent.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-impure.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lseekr.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-readr.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-writer.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-init.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-atexit.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-freer.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mallocr.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mlock.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fclose.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fflush.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-sbrkr.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fini.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-sysconf.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__atexit.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-errno.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(close.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(lseek.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(read.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(sbrk.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(write.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x20000630        0x0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtn.o
+ *(.bss*)
+ .bss.completed.1
+                0x20000630        0x1 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+ *fill*         0x20000631        0x3 
+ .bss.object.0  0x20000634       0x18 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+ .bss.__sf      0x2000064c      0x138 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+                0x2000064c                __sf
+ .bss.__stdio_exit_handler
+                0x20000784        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+                0x20000784                __stdio_exit_handler
+ .bss.errno     0x20000788        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-reent.o)
+                0x20000788                errno
+ .bss.__lock___arc4random_mutex
+                0x2000078c        0x1 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x2000078c                __lock___arc4random_mutex
+ *fill*         0x2000078d        0x3 
+ .bss.__lock___dd_hash_mutex
+                0x20000790        0x1 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x20000790                __lock___dd_hash_mutex
+ *fill*         0x20000791        0x3 
+ .bss.__lock___tz_mutex
+                0x20000794        0x1 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x20000794                __lock___tz_mutex
+ *fill*         0x20000795        0x3 
+ .bss.__lock___env_recursive_mutex
+                0x20000798        0x1 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x20000798                __lock___env_recursive_mutex
+ *fill*         0x20000799        0x3 
+ .bss.__lock___malloc_recursive_mutex
+                0x2000079c        0x1 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x2000079c                __lock___malloc_recursive_mutex
+ *fill*         0x2000079d        0x3 
+ .bss.__lock___at_quick_exit_mutex
+                0x200007a0        0x1 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x200007a0                __lock___at_quick_exit_mutex
+ *fill*         0x200007a1        0x3 
+ .bss.__lock___atexit_recursive_mutex
+                0x200007a4        0x1 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x200007a4                __lock___atexit_recursive_mutex
+ *fill*         0x200007a5        0x3 
+ .bss.__lock___sfp_recursive_mutex
+                0x200007a8        0x1 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+                0x200007a8                __lock___sfp_recursive_mutex
+ *fill*         0x200007a9        0x3 
+ .bss.__atexit  0x200007ac        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__call_atexit.o)
+                0x200007ac                __atexit
+ .bss.__malloc_current_mallinfo
+                0x200007b0       0x28 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mallocr.o)
+                0x200007b0                __malloc_current_mallinfo
+ .bss.__malloc_max_total_mem
+                0x200007d8        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mallocr.o)
+                0x200007d8                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x200007dc        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mallocr.o)
+                0x200007dc                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x200007e0        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mallocr.o)
+                0x200007e0                __malloc_top_pad
+ .bss.__atexit0
+                0x200007e4      0x190 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__atexit.o)
+                0x200007e4                __atexit0
+ .bss.heap_end.0
+                0x20000974        0x4 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(sbrk.o)
+ *(COMMON)
+                0x20000978                        . = ALIGN (0x4)
+                0x20000978                        _ebss = .
+                0x20000978                        __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000978      0x600 load address 0x08001e78
+                0x20000978                        . = ALIGN (0x8)
+                0x20000978                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x20000b78                        . = (. + _Min_Heap_Size)
+ *fill*         0x20000978      0x200 
+                0x20000f78                        . = (. + _Min_Stack_Size)
+ *fill*         0x20000b78      0x400 
+                0x20000f78                        . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000065       0x2d CMakeFiles/pll_registers.dir/src/main.c.obj
+ .ARM.attributes
+                0x00000092       0x2d CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .ARM.attributes
+                0x000000bf       0x21 CMakeFiles/pll_registers.dir/startup/startup_stm32f103xb.s.obj
+ .ARM.attributes
+                0x000000e0       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-exit.o)
+ .ARM.attributes
+                0x0000010d       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x0000013a       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000167       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000194       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
+ .ARM.attributes
+                0x000001c1       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-closer.o)
+ .ARM.attributes
+                0x000001ee       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-reent.o)
+ .ARM.attributes
+                0x0000021b       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000248       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000275       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-readr.o)
+ .ARM.attributes
+                0x000002a2       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-writer.o)
+ .ARM.attributes
+                0x000002cf       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-init.o)
+ .ARM.attributes
+                0x000002fc       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000329       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000356       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-atexit.o)
+ .ARM.attributes
+                0x00000383       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-freer.o)
+ .ARM.attributes
+                0x000003b0       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x000003dd       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x0000040a       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fclose.o)
+ .ARM.attributes
+                0x00000437       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000464       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000491       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fini.o)
+ .ARM.attributes
+                0x000004be       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-sysconf.o)
+ .ARM.attributes
+                0x000004eb       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__atexit.o)
+ .ARM.attributes
+                0x00000518       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-errno.o)
+ .ARM.attributes
+                0x00000545       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(close.o)
+ .ARM.attributes
+                0x00000572       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(lseek.o)
+ .ARM.attributes
+                0x0000059f       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(read.o)
+ .ARM.attributes
+                0x000005cc       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x000005f9       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(write.o)
+ .ARM.attributes
+                0x00000626       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000653       0x2d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000680       0x1d C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp/crtn.o
+OUTPUT(pll_registers elf32-littlearm)
+LOAD linker stubs
+LOAD C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
+LOAD C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
+LOAD C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/thumb/v7-m/nofp\libgcc.a
+
+.debug_line_str
+                0x00000000       0xd2
+ .debug_line_str
+                0x00000000       0xd2 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+
+.debug_info     0x00000000      0x4bc
+ .debug_info    0x00000000      0x292 CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_info    0x00000292      0x22a CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+
+.debug_abbrev   0x00000000      0x267
+ .debug_abbrev  0x00000000      0x122 CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_abbrev  0x00000122      0x145 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+
+.debug_loclists
+                0x00000000      0x10e
+ .debug_loclists
+                0x00000000       0x66 CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_loclists
+                0x00000066       0xa8 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+
+.debug_aranges  0x00000000       0x40
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_aranges
+                0x00000020       0x20 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+
+.debug_macro    0x00000000    0x10022
+ .debug_macro   0x00000000       0xc2 CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_macro   0x000000c2      0xad2 CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_macro   0x00000b94       0x22 CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_macro   0x00000bb6       0x8e CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_macro   0x00000c44       0x51 CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_macro   0x00000c95      0x103 CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_macro   0x00000d98       0x6a CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_macro   0x00000e02      0x1df CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_macro   0x00000fe1       0x2e CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_macro   0x0000100f       0x22 CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_macro   0x00001031       0x1c CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_macro   0x0000104d       0x22 CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_macro   0x0000106f       0xbd CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_macro   0x0000112c      0xd23 CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_macro   0x00001e4f     0xe09e CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_macro   0x0000feed       0x6d CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_macro   0x0000ff5a       0xc8 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+
+.debug_line     0x00000000      0x6a8
+ .debug_line    0x00000000      0x3a8 CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_line    0x000003a8      0x300 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+
+.debug_str      0x00000000    0x545af
+ .debug_str     0x00000000    0x545af CMakeFiles/pll_registers.dir/src/main.c.obj
+                              0x54719 (size before relaxing)
+ .debug_str     0x000545af        0x0 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+                              0x54735 (size before relaxing)
+
+.comment        0x00000000       0x45
+ .comment       0x00000000       0x45 CMakeFiles/pll_registers.dir/src/main.c.obj
+                                 0x46 (size before relaxing)
+ .comment       0x00000045        0x0 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+                                 0x46 (size before relaxing)
+
+.debug_frame    0x00000000      0x88c
+ .debug_frame   0x00000000       0x50 CMakeFiles/pll_registers.dir/src/main.c.obj
+ .debug_frame   0x00000050       0x30 CMakeFiles/pll_registers.dir/src/system_stm32f1xx.c.obj
+ .debug_frame   0x00000080       0x28 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-exit.o)
+ .debug_frame   0x000000a8      0x13c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-findfp.o)
+ .debug_frame   0x000001e4       0x34 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fwalk.o)
+ .debug_frame   0x00000218       0x8c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-stdio.o)
+ .debug_frame   0x000002a4       0x2c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-memset.o)
+ .debug_frame   0x000002d0       0x2c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-closer.o)
+ .debug_frame   0x000002fc       0x3c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-reent.o)
+ .debug_frame   0x00000338       0x2c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lseekr.o)
+ .debug_frame   0x00000364       0x2c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-readr.o)
+ .debug_frame   0x00000390       0x2c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-writer.o)
+ .debug_frame   0x000003bc       0x2c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-init.o)
+ .debug_frame   0x000003e8       0xb0 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-lock.o)
+ .debug_frame   0x00000498       0x70 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .debug_frame   0x00000508       0x20 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-atexit.o)
+ .debug_frame   0x00000528       0x80 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-freer.o)
+ .debug_frame   0x000005a8       0x54 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mallocr.o)
+ .debug_frame   0x000005fc       0x30 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-mlock.o)
+ .debug_frame   0x0000062c       0x3c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fclose.o)
+ .debug_frame   0x00000668       0x84 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fflush.o)
+ .debug_frame   0x000006ec       0x2c C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000718       0x34 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-fini.o)
+ .debug_frame   0x0000074c       0x28 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-sysconf.o)
+ .debug_frame   0x00000774       0x38 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-__atexit.o)
+ .debug_frame   0x000007ac       0x20 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(libc_a-errno.o)
+ .debug_frame   0x000007cc       0x20 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(close.o)
+ .debug_frame   0x000007ec       0x20 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(lseek.o)
+ .debug_frame   0x0000080c       0x20 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(read.o)
+ .debug_frame   0x0000082c       0x20 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(sbrk.o)
+ .debug_frame   0x0000084c       0x20 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(write.o)
+ .debug_frame   0x0000086c       0x20 C:/SysGCC/arm-eabi/bin/../lib/gcc/arm-none-eabi/15.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
