@@ -26,3 +26,4 @@ This is my foundational learning project: I wanted to understand the Clock Tree 
 ```bash
 cmake -S . -B build -G "MinGW Makefiles"
 cmake --build build
+openocd -f flash.cfg -c "program build/pll_registers.hex verify reset exit"
